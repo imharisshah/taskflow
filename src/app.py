@@ -1,1 +1,2 @@
-print("TaskFlow Application Started")
+def create_task(task):
+    print("Task created:", task)
