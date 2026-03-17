@@ -6,4 +6,4 @@ TaskFlow is a simple task management application used to demonstrate Git workflo
 src/ – application source code  
 tests/ – test files  
 docs/ – project documentation  
-config/ – configuration files
+config/ – configuration filesDisplay formatting bug fix documented.
